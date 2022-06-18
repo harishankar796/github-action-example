@@ -22,8 +22,8 @@ public class GithubCicdActionApplication {
 	git init
 	git add README.md
 	git commit -m "first commit"
-	git branch -M main
+	git branch -M master
 	git remote add origin https://github.com/harishankar796/github-action-example.git
-	git push -u origin main*/
+	git push -u origin master*/
 }
  
